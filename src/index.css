@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.typing-effect {
+  border-right: 0.1em solid #fff;
+  white-space: nowrap;
+  overflow: hidden;
+}
+

@@ -1,0 +1,6 @@
+{
+    "greeting": "Hi",
+    "nameIntroduction": "My name is <strong>{{name}}</strong>",
+    "role": "<developer/>"
+  }
+  
